@@ -7,7 +7,7 @@ use Src\Domain\Services\BaseIcmsSTCalculator;
 use Src\Domain\Services\IcmsCalculator;
 use Src\Domain\Services\IcmsSTCalculator;
 
-class Icms10 implements Icms, ICmsST
+class Icms10 implements Icms, IcmsST
 {
     private $baseCalculo;
 
